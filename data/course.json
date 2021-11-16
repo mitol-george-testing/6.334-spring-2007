@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cb2df7a2-1c35-59e8-1fa2-34a04ad9ab57"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Power Electronics",
+  "course_description": "6.334 examines the application of electronics to energy conversion and control. Topics covered include: modeling, analysis, and control techniques; design of power circuits including inverters, rectifiers, and DC-DC converters; analysis and design of magnetic components and filters; and characteristics of power semiconductor devices. Numerous application examples will be presented such as motion control systems, power supplies, and radio-frequency power amplifiers. The course is worth 6 engineering design points.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.334",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
